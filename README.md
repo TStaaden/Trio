@@ -12,4 +12,4 @@ $./a.out
 ```
 
 Lastest Pass: 
-[![Build Status](https://travis-ci.org/TStaaden/Trio/builds/496158209)](https://travis-ci.org/TStaaden/Trio)
+[![Build Status](https://travis-ci.org/TStaaden/Trio.svg?branch=master)](https://travis-ci.org/TStaaden/Trio)
