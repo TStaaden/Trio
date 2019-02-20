@@ -10,3 +10,6 @@ To run the program do the following in your command line interface prompt ($):
 $make
 $./a.out
 ```
+
+Lastest Pass: 
+[![Build Status](https://travis-ci.org/TStaaden/Trio/builds/496158209)](https://travis-ci.org/TStaaden/Trio)
